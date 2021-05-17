@@ -28,12 +28,6 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 A README is a document used to explain an application. Including what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.
 
-![scrnshot](img url)
-
-![scrnshot1](img url)
-
-![scrnshot2](img url)
-
 
 ## Credits
 
