@@ -21,13 +21,12 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 13 - E-Commerce Back-End GitHub Repo](https://github.com/britt-bot/12-Employee_Tracker)
 
-[Homework 13 - E-Commerce Back-End Video]()
+[Homework 13 - E-Commerce Back-End Video](https://drive.google.com/file/d/1lT6UapaVvZTTsuWDNRQ4lSF_LlLQebSv/view)
 
 
 ## Usage 
 
-A README is a document used to explain an application. Including what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.
-
+This is an application designed for the back-end of an e-commerce website.
 
 ## Credits
 
