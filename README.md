@@ -29,6 +29,13 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 This is an application designed for the back-end of an e-commerce website.
 
+![screenshot1](https://user-images.githubusercontent.com/77466708/139322311-d581d8fd-3813-47d4-8638-c6ef57883294.png)
+
+![screenshot2](https://user-images.githubusercontent.com/77466708/139322314-9157e089-52e3-4893-b68b-8247a0df70de.png)
+
+![screenshot](https://user-images.githubusercontent.com/77466708/139322316-92c918b7-fc11-42ed-8f94-ff23e15a72d1.png)
+
+
 ## Credits
 
 Third Party Assets:
