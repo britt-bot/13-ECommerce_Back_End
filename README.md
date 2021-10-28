@@ -20,7 +20,7 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[E-Commerce Back-End Repo](https://github.com/britt-bot/12-Employee_Tracker)
+[E-Commerce Back-End Repo](https://github.com/britt-bot/E-Commerce_Back_End)
 
 [Walkthrough Video](https://drive.google.com/file/d/1lT6UapaVvZTTsuWDNRQ4lSF_LlLQebSv/view)
 
